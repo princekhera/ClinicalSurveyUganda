@@ -24,8 +24,6 @@ The output is an `.xlsx` form that can be uploaded and deployed via KoboToolbox 
 - **Excel / Google Sheets** – To construct the XLSForm.
 - **PDF Reference Form** – (not included here for copyright/privacy reasons).
 
----
 
-## 📂 File Structure
 
 
